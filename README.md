@@ -14,7 +14,7 @@ Material for the Quantitative Risk Management workshops:
 
 ### Lecture 2: Correlated default
 
-* 
+* I. Onur Filiz, Xin Guo, Jason Morton, Bernd Sturmfels, *Graphical models for correlated defaults*, https://arxiv.org/abs/0809.1393
 
 ### Lecture 3: Operational risk and actuarial models
 
@@ -23,3 +23,4 @@ Material for the Quantitative Risk Management workshops:
 * Satoshi Nakamoto, *Bitcoint: a peer-to-peer electronic cash system#*, https://bitcoin.org/bitcoin.pdf
 * Vitalik Buterin et. al, *Ethereum white paper*, https://github.com/ethereum/wiki/wiki/White-Paper
 * Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark, *Bitcoin and cryptocurrency technologies*, https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf
+* Martin Krzywinski, *Hive plot: linear layout for visualization of networks*, http://www.hiveplot.com/talks/hive-plot.pdf
