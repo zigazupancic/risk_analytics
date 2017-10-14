@@ -35,9 +35,9 @@ Coming soon!
   for networks*, Proceedings of the 22nd ACM SIGKDD International
   Conference on Knowledge Discovery and Data Mining,
   https://arxiv.org/abs/1607.00653 (2016)
+* Aditya Grover, *node2vec*, https://github.com/aditya-grover/node2vec
 * Satoshi Nakamoto, *Bitcoint: a peer-to-peer electronic cash system#*, https://bitcoin.org/bitcoin.pdf
 * Vitalik Buterin et. al, *Ethereum white paper*, https://github.com/ethereum/wiki/wiki/White-Paper
 * Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark, *Bitcoin and cryptocurrency technologies*, https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf
 * Martin Krzywinski, *Hive plot: linear layout for visualization of
 networks*, http://www.hiveplot.com/talks/hive-plot.pdf
-* https://github.com/aditya-grover/node2vec
