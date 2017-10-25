@@ -27,7 +27,15 @@ of interest rates*, Journal of Finance, 29(2): 449-470 (1974)
   risk*, arxiv:1412.1183 (2014)
 
 ### Lecture 3: Keeping Customers Happy with Machine Learning
-Coming soon!
+
+* Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado and Jeffrey Dean,
+*Distributed Representations of Words and Phrases and their Compositionality*,
+http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
+* Marco Baroni, Georgiana Dinu and German Kruszewski, *Don’t count,
+predict! A systematic comparison of context-counting
+vs. context-predicting semantic vectors*,
+http://www.aclweb.org/anthology/P14-1023
+* TensorFlow tutorial on word2vec,  https://www.tensorflow.org/tutorials/word2vec
 
 ### Lecture 4: Graph Analytics on the Bitcoin Blockchain
 
@@ -36,8 +44,6 @@ Coming soon!
   Conference on Knowledge Discovery and Data Mining,
   https://arxiv.org/abs/1607.00653 (2016)
 * Aditya Grover, *node2vec*, https://github.com/aditya-grover/node2vec
-* Satoshi Nakamoto, *Bitcoint: a peer-to-peer electronic cash system#*, https://bitcoin.org/bitcoin.pdf
+* Satoshi Nakamoto, *Bitcoin: a peer-to-peer electronic cash system#*, https://bitcoin.org/bitcoin.pdf
 * Vitalik Buterin et. al, *Ethereum white paper*, https://github.com/ethereum/wiki/wiki/White-Paper
 * Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark, *Bitcoin and cryptocurrency technologies*, https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf
-* Martin Krzywinski, *Hive plot: linear layout for visualization of
-networks*, http://www.hiveplot.com/talks/hive-plot.pdf
