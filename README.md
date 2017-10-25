@@ -1,6 +1,6 @@
 
 # risk_analytics
-Material for the 2017 Risk Analytics workshop for the University of LJubljana, Masters in Financial Mathematics
+Material for the 2017 Risk Analytics workshop for the University of Ljubljana, Masters in Financial Mathematics
 
 ## Suggested reading
 
