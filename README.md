@@ -26,7 +26,7 @@ of interest rates*, Journal of Finance, 29(2): 449-470 (1974)
 * M. Rutkowski, S. Tarca, *Regulatory capital modeling for credit
   risk*, arxiv:1412.1183 (2014)
 
-### Lecture 3: Keeping Customers Happy with Machine Learning
+### Lecture 3: Natural Language Understanding and Feature Learning
 
 * Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado and Jeffrey Dean,
 *Distributed Representations of Words and Phrases and their Compositionality*,
@@ -37,7 +37,7 @@ vs. context-predicting semantic vectors*,
 http://www.aclweb.org/anthology/P14-1023
 * TensorFlow tutorial on word2vec,  https://www.tensorflow.org/tutorials/word2vec
 
-### Lecture 4: Graph Analytics on the Bitcoin Blockchain
+### Lecture 4: Bitcoin Blockchain and Graph Learning
 
 * Aditya Grover, Jure Leskovec, *node2vec: scalable feature learning
   for networks*, Proceedings of the 22nd ACM SIGKDD International
