@@ -26,7 +26,7 @@ of interest rates*, Journal of Finance, 29(2): 449-470 (1974)
 * M. Rutkowski, S. Tarca, *Regulatory capital modeling for credit
   risk*, arxiv:1412.1183 (2014)
 
-### Lecture 3: Natural Language Understanding and Feature Learning
+### Lecture 3: Natural Language Processing and Feature Learning
 
 * Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado and Jeffrey Dean,
 *Distributed Representations of Words and Phrases and their Compositionality*,
@@ -35,7 +35,11 @@ http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrase
 predict! A systematic comparison of context-counting
 vs. context-predicting semantic vectors*,
 http://www.aclweb.org/anthology/P14-1023
-* TensorFlow tutorial on word2vec,  https://www.tensorflow.org/tutorials/word2vec
+* Scikit-Learn tutorial on text analytics / bag of words: http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
+* https://rare-technologies.com/word2vec-tutorial/
+* https://www.tensorflow.org/tutorials/word2vec
+* https://www.kaggle.com/c/word2vec-nlp-tutorial#part-2-word-vectors
+* https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb
 
 ### Lecture 4: Bitcoin Blockchain and Graph Learning
 
