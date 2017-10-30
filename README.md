@@ -7,7 +7,11 @@ Material for the 2017 Risk Analytics workshop for the University of Ljubljana, M
 ### Lecture 1: Financial crises and regulatory responses
 
 * Michael Lewis, *The Big Short*, W. W. Norton and Company (2010)
-* Anat Admati and Martin Hellwig, *The Bankers' New Clothes*, http://bankersnewclothes.com
+* Anat Admati and Martin Hellwig, *The Bankers' New Clothes*,
+http://bankersnewclothes.com
+* Marcus Christiansen and Andreas Niemayer, *Fundamental definition of
+  the solvency capital requirement in Solvency II*, ASTIN Bulletin
+  (44), 2014. Available at https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi2/dokumente/preprint-server/2012/1202_definitionofscr.pdf
 
 ### Lecture 2: Correlated default
 * A. J. McNeil, R. Frey, P. Embrechts, *Quantitative risk management:
