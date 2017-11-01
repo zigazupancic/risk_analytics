@@ -2,6 +2,27 @@
 # risk_analytics
 Material for the 2017 Risk Analytics workshop for the University of Ljubljana, Masters in Financial Mathematics
 
+## Comments about code
+
+For the first day, the examples in the lectures and the code snippets
+for the tutorials were produced with R. The packages used are
+
+* copula
+* xtable
+* dplyr
+* ggplot2
+
+The R code is in the repository folder `Day1_data_Rcode`.
+
+For the second day, the examples from the lectures were produced using
+Python 3.6. For basic setup with Python and Jupyter Notebooks (a
+lightweight IDE to code and show your results), please see:
+
+https://github.com/amueller/ml-training-intro
+
+In particular, he shows with screenshots how to get a copy of the
+material on a repository such as this one.
+
 ## Suggested reading
 
 ### Lecture 1: Financial crises and regulatory responses
