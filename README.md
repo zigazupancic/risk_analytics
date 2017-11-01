@@ -23,6 +23,14 @@ https://github.com/amueller/ml-training-intro
 In particular, he shows with screenshots how to get a copy of the
 material on a repository such as this one.
 
+The tutorial problems for the second day are embedded in the notebooks
+used to create examples for the lectures. These are:
+
+In addition, I have very slighlty modified the `doc2vec-IMDB.ipynb`
+notebook from gensim 
+
+https://github.com/munichpavel/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb
+
 ## Suggested reading
 
 ### Lecture 1: Financial crises and regulatory responses
